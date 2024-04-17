@@ -14,7 +14,7 @@ A data preprocessing pipeline provides a structured and automated framework that
 By adhering to this established sequence of operations, the pipeline promotes consistency, reproducibility, and efficiency across all preprocessing steps, ensuring that data is processed uniformly in preparation for further analysis.
 
 
-# How a Data Preprocessing Pipeline Helps Data Professionals
+# Importance of Data Preprocessing Pipeline
 
 A Data Preprocessing pipeline is essential for supporting the work of various data professionals, including data engineers, data analysts, data scientists, and machine learning engineers. Each role benefits distinctly from the efficiencies and capabilities it offers.
 
